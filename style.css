@@ -36,6 +36,10 @@
   margin: 20px 0px;
 }
 
+.section__how {
+  background-color: blue;
+}
+
 .section__how--icon {
   height: 100px;
 }
